@@ -1,0 +1,41 @@
+{
+    "home": {
+        "information_short": "i",
+        "max_gain_prefix": "Jusqu'à",
+        "new_badge": "Nouveau",
+        "carousel_max_gain_prefix": "Gagner jusqu'à\n",
+        "carousel_max_gain_sufix": "€ !",
+        "play": "Jouez",
+        "credits": "Crédit de jeu : {credits} €",
+        "by": "par",
+        "all_games": "Tous les jeux",
+        "modal_title": "Félicitations !\nVous avez gagné\n{gain} €",
+        "modal_no_credits": "Votre crédit de jeu est épuisé.",
+        "modal_get_gain": "Rendez-vous dans votre commerce de proximité FDJ pour récupérer votre gain avec votre reçu de jeu !"
+    },
+    "games": {
+        "banco": {
+            "gain_prefix": "Gain {gainNumber}",
+            "auto_button": "Auto",
+            "congrats": "Félicitations !",
+            "game_done": "Partie terminée",
+            "win": "Vous avez gagné",
+            "retry": "Vous pouvez retenter votre chance",
+            "choose": "Choisissez un Ticket",
+            "play": "Jouez 1 €",
+            "rules": "Règlements",
+            "rules_complete": "La participation au jeu BANCO implique  l'adhésion au règlement particulier de  ce jeu ainsi qu'aux conditions générales  de l'offre des jeux en ligne de La  Française des Jeux.",
+            "general_condition": "Conditions générales",
+            "specific_rules": "Règlement de ce jeu",
+            "game_rules": "Regles du jeu",
+            "explanation": "Cliquez sur les cases :",
+            "win_cond": "Si vous decouvrez un ou plusieur gain, vous les remportez.",
+            "disclaimer": "Pour retrouver les règles pendant le jeu, cliquez sur << ? >>",
+            "price": "1 €",
+            "quit": "Quitter le jeu"
+        }
+    },
+    "other": {
+        "currency": "€"
+    }
+}

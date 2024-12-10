@@ -1,0 +1,41 @@
+{
+    "home": {
+        "information_short": "i",
+        "max_gain_prefix": "Up to",
+        "new_badge": "New",
+        "carousel_max_gain_prefix": "Win up to\n",
+        "carousel_max_gain_sufix": "€ !",
+        "play": "Play",
+        "credits": "Game credits: {credits} €",
+        "by": "by",
+        "all_games": "All games",
+        "modal_title": "Congratulations!\nYou have won\n{gain} €",
+        "modal_no_credits": "Your game credit is exhausted.",
+        "modal_get_gain": "Go to your nearest FDJ retailer to collect your winnings with your game receipt!"
+    },
+    "games": {
+        "banco": {
+            "gain_prefix": "Gain {gainNumber}",
+            "auto_button": "Auto",
+            "congrats": "Congratulations !",
+            "game_done": "Game over",
+            "win": "You won",
+            "retry": "You can try again",
+            "choose": "Choose a Ticket",
+            "play": "Play 1€",
+            "rules": "Rules",
+            "rules_complete": "Participation in the BANCO game implies adherence to the specific rules of this game as well as to the general conditions of La Française des Jeux's online games offer.",
+            "general_condition": "General conditions",
+            "specific_rules": "Rules of this game",
+            "game_rules": "Game Rules",
+            "explanation": "Click on the boxes :",
+            "win_cond": "If you reveal one or more wins, you win them.",
+            "disclaimer": "To find the rules during the game, click on << ? >>",
+            "price": "1 €",
+            "quit": "Quit the game"
+        }
+    },
+    "other": {
+        "currency": "€"
+    }
+}
